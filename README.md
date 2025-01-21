@@ -22,9 +22,9 @@ Before setting up the application, ensure you have the following installed on yo
 - npm or yarn
 
 Setup Instructions <br>
-Clone the Repository git clone (https://github.com/kjlarocca/CRUDApp2025.git)
+1. Clone the Repository git clone (https://github.com/kjlarocca/CRUDApp2025.git)
 
-Backend Setup <br>
+2. Backend Setup <br>
 A. Navigate to the backend folder: cd backend <br> 
 B. Install dependencies: npm install <br>
 C. Create a .env file in the backend directory with the following content: <br>
@@ -38,7 +38,7 @@ D. Set up the database: Start your MySQL server using terminal command: mysql -u
 E. Start the backend server: npm run dev <br>
 The backend API will be available at http://localhost:5001
 
-Frontend Setup <br>
+3. Frontend Setup <br>
 A. Navigate to the frontend folder: cd ../frontend <br>
 B. Install dependencies: npm install <br>
 C. Create a .env file in the frontend directory with the following content: REACT_APP_API_URL=http://localhost:5001 <br>
