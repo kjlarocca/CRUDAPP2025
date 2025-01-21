@@ -19,7 +19,7 @@ Before setting up the application, ensure you have the following installed on yo
 
 - Node.js (v18 or later)
 - MySQL (v8 or later)
-- npm or yarn
+- npm
 
 Setup Instructions <br>
 1. Clone the Repository git clone (https://github.com/kjlarocca/CRUDApp2025.git)
