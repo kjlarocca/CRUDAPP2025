@@ -42,7 +42,8 @@ The backend API will be available at http://localhost:5001
 A. Navigate to the frontend folder: cd ../frontend <br>
 B. Install dependencies: npm install <br>
 C. Create a .env file in the frontend directory with the following content: REACT_APP_API_URL=http://localhost:5001 <br>
-D. Start the React development server: npm start The frontend will be available at http://localhost:3000
+D. Start the React development server: npm start <br>
+The frontend will be available at http://localhost:3000
 
 Usage <br>
 Open your browser and navigate to http://localhost:3000 <br>
