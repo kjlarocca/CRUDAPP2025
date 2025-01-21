@@ -1,0 +1,70 @@
+/* General Reset */
+body, h1, p, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Georgia, 'Times New Roman', serif; /* Sophisticated font */
+    background-color: #f7e9d3; /* Light tan background */
+    color: #5a4a3f; /* Warm brown text */
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  /* Container Styling */
+  .container {
+    max-width: 600px;
+    width: 100%;
+    background-color: #fefaf3; /* Softer tan for contrast */
+    border: 1px solid #d4c5b7;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Header Styling */
+  .header {
+    margin-bottom: 20px;
+  }
+  
+  .header h1 {
+    font-size: 2rem;
+    color: #8b6f5e; /* Richer tan for headings */
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  /* Main Section Styling */
+  .main p {
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+  }
+  
+  .button {
+    background-color: #c5a880; /* Medium tan for button */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #a9856a; /* Darker tan on hover */
+  }
+  
+  /* Footer Styling */
+  .footer {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #7e6a5a;
+  }
+  
