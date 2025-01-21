@@ -3,7 +3,7 @@ Inventory Management App
 Overview <br>
 The Inventory Management App is a full-stack application designed to help inventory managers create accounts, track inventory items, and manage their details. It supports user authentication, CRUD operations on items, and displays inventory details. Built with React (frontend), ExpressJS (backend), and MySQL (database).
 
-Features
+Features <br>
 -User Registration and Login
 -Create, View, Edit, and Delete Items
 -User-specific inventory management
