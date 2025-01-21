@@ -27,7 +27,7 @@ Setup Instructions <br>
 2. Backend Setup <br>
 A. Navigate to the backend folder: cd backend <br> 
 B. Install dependencies: npm install <br>
-C. Create a .env file in the backend directory with the following content: <br>
+C. ** If file does not exist, Create a .env file in the backend directory with the following content: <br>
 DB_HOST=localhost <br>
 DB_USER=inventory_user <br>
 DB_PASSWORD=your_password <br>
@@ -41,7 +41,7 @@ The backend API will be available at http://localhost:5001
 3. Frontend Setup <br>
 A. Navigate to the frontend folder: cd ../frontend <br>
 B. Install dependencies: npm install <br>
-C. Create a .env file in the frontend directory with the following content: REACT_APP_API_URL=http://localhost:5001 <br>
+C. ** If file does not exist, Create a .env file in the frontend directory with the following content: REACT_APP_API_URL=http://localhost:5001 <br>
 D. Start the React development server: npm start <br>
 The frontend will be available at http://localhost:3000
 
