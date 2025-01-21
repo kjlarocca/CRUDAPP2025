@@ -10,9 +10,9 @@ User-specific inventory management
 Responsive design compatible with modern browsers
 
 Tech Stack
-Frontend: React, React Router, Axios
-Backend: Node.js, Express.js, Sequelize
-Database: MySQL
+- Frontend: React, React Router, Axios
+- Backend: Node.js, Express.js, Sequelize
+- Database: MySQL
 
 Prerequisites
 Before setting up the application, ensure you have the following installed on your system:
